@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         药师帮价格排序
 // @namespace    http://tampermonkey.net/
-// @version      0.1.5
+// @version      0.2.0
 // @description  对药师帮搜索结果按价格排序
 // @author       yl
 // @match        http://dian.ysbang.cn/*
